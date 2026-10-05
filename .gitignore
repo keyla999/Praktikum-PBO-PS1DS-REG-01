@@ -40,3 +40,5 @@ desktop.ini
 .project
 .classpath
 .settings/
+/modul-02-intro/project/modul-02-intro/target/
+/modul-03-konsep-dasar/project/guided/target/

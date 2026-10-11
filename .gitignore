@@ -42,3 +42,6 @@ desktop.ini
 .settings/
 /modul-02-intro/project/modul-02-intro/target/
 /modul-03-konsep-dasar/project/guided/target/
+/modul-03-konsep-dasar/project/unguided/target/
+/modul-03-konsep-dasar/project/unguided/mavenproject2/target/
+/modul-04-enkapsulasi/project/modul04/target/

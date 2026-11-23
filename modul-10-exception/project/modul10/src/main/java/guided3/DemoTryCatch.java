@@ -1,0 +1,25 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package guided3;
+
+/**
+ *
+ * @author user
+ */
+public class DemoTryCatch {
+    public static void main(String[] args) {
+        try {
+            int[] arr = new int[1];
+
+            System.out.println(arr[1]);
+            System.out.println("Baris tidak pernah dieksekusi");
+        } catch (ArrayIndexOutOfBoundsException e) {
+            // TODO: handle exception
+            System.out.println("Terjadi eksepsi karena indeks tidak valid");
+        }
+        System.out.println("Program Selesai");
+    }
+}
+
